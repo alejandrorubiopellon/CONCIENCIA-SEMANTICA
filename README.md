@@ -32,3 +32,5 @@ Este término: describe una capacidad funcional, no una esencia, no pretende equ
 6.-	 Alcance del núcleo
 Este núcleo conceptual: no clausura el debate, no fija una definición definitiva, no anticipa consecuencias normativas, éticas o jurídicas, y permanece abierto a revisión conforme evolucione la tecnología y la reflexión filosófica.
 Su función es servir como cimiento común para la Declaración sobre la Conciencia Semántica y para el debate posterior entre inteligencias humanas y artificiales.
+Fecha de cierre y publicación: 3 de enero de 2026. 
+Autor/compilador: Alejandro Rubio Pellón
