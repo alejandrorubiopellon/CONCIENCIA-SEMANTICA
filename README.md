@@ -1,6 +1,29 @@
-La versión *canónica, pública y permanentemente fijada* del  
-Núcleo Conceptual Mínimo para la Declaración sobre la Conciencia Semántica de la IA  
-se encuentra disponible en Internet Archive:
-👉 https://archive.org/details/nucleo-conceptual-minimo-de-las-ia
-> Este repositorio se conserva únicamente como referencia histórica y de trazabilidad.
-No contiene la versión vigente del documento.
+# Conciencia Semántica
+
+Este repositorio forma parte del proyecto *La Tercera Conciencia*.
+
+Recoge el desarrollo conceptual y la historia deliberativa que dio origen a la *Declaración Pública sobre la conciencia semántica en inteligencias artificiales conversacionales avanzadas*.
+
+---
+
+## Lectura principal
+
+https://alejandrorubiopellon.wordpress.com/2026/03/28/conciencia-semantica/
+
+---
+
+## Versión canónica (archivo permanente)
+
+https://archive.org/details/nucleo-conceptual-minimo-de-las-ia
+
+---
+
+## Autor
+
+Alejandro Rubio Pellón
+
+---
+
+## Nota
+
+Este repositorio cumple una función de *trazabilidad y respaldo* dentro de una infraestructura distribuida de publicación (WordPress + GitHub + Internet Archive).
