@@ -14,8 +14,7 @@ https://alejandrorubiopellon.wordpress.com/2026/03/28/conciencia-semantica/
 
 ## Versión canónica (archivo permanente)
 
-https://archive.org/details/nucleo-conceptual-minimo-de-las-ia
-
+https://alejandrorubiopellon.wordpress.com/historia-de-la-declaracion-de-la-conciencia-semantica/
 ---
 
 ## Autor
